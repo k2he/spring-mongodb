@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public class ValueObject {
 
-  private String id;
+  private String role;
   
   private int value;
 
